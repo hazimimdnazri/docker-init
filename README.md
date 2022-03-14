@@ -13,3 +13,5 @@ Docker container or containerization is an alternative for virtualization. You c
     docker-compose build app
     docker-compose up -d
     ```
+
+You can't run it? Well it did work on my machine 😏
